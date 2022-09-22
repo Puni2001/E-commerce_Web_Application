@@ -1,5 +1,4 @@
-
-**E-COMMERCE WEB APPLICATION | FULL STACK**
+# E-COMMERCE WEB APPLICATION | FULL STACK
 
   - An optimized website for mobile users, allowing users to access all
     features on any mobile device.
